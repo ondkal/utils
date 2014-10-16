@@ -3,5 +3,5 @@
     "type": "library",
     "description": "XML file manipulation and file listing utilities.",
     "keywords": ["xml","file"],
-    "homepage": "https://github.com/ondkal/utils.git",
+    "homepage": "https://github.com/ondkal/utils.git"
 }
