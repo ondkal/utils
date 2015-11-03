@@ -1,5 +1,5 @@
 {
-    "name": "ok/utils",
+    "name": "ondkal/utils",
     "type": "library",
     "description": "XML file manipulation and file listing utilities.",
     "keywords": ["xml","file"],
