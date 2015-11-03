@@ -4,5 +4,6 @@
     "version": "1.0.0",
     "type": "library",
     "keywords": ["xml","file"],
-    "homepage": "https://github.com/ondkal/utils.git"
+    "homepage": "https://github.com/ondkal/utils.git",
+    "license": "MIT"
 }
