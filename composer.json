@@ -1,7 +1,6 @@
 {
     "name": "ondkal/utils",
     "description": "XML file manipulation and file listing utilities.",
-    "version": "1.0.0",
     "type": "library",
     "keywords": ["xml","file"],
     "homepage": "https://github.com/ondkal/utils.git",
